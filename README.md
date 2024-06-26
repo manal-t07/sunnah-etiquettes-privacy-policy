@@ -1,4 +1,4 @@
-# sunnah-etiquettes-privacy-policy
+# Sunnah Etiquettes Privacy Policy
 **Last updated: 27/06/2024**
 
 **Alhaq Works** operates the Sunnah Etiquettes mobile application. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
